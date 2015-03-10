@@ -1,0 +1,17 @@
+Script started on 2015年03月10日 (週二) 17時29分56秒
+]0;F74036344@2015cpp: ~F74036344@2015cpp:~$ whoami; pwd
+F74036344
+/home/F74036344
+]0;F74036344@2015cpp: ~F74036344@2015cpp:~$ clean
+No command 'clean' found, did you mean:
+ Command 'uclean' from package 'svn-buildpackage' (universe)
+ Command 'clear' from package 'ncurses-bin' (main)
+clean: command not found
+]0;F74036344@2015cpp: ~F74036344@2015cpp:~$ clear
+[H[2J]0;F74036344@2015cpp: ~F74036344@2015cpp:~$ git congi[K[Kfig -l
+]0;F74036344@2015cpp: ~F74036344@2015cpp:~$ git clone https://github.com/F74036344@[K/lab1.git
+Cloning into 'lab1'...
+warning: You appear to have cloned an empty repository.
+]0;F74036344@2015cpp: ~F74036344@2015cpp:~$ exit
+
+Script done on 2015年03月10日 (週二) 17時33分30秒
